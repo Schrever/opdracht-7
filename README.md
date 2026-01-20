@@ -4,3 +4,4 @@ l
 # teamsamenstelling
 - Jesse.. Gitmaster
 - Joris, Collaborator
+- Anouar, Collaborator
